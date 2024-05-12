@@ -1,8 +1,8 @@
-vendor/
+/vendor/
 composer.lock.json
 
 # Ignore the vendor/directory
- vendor/
+/vendor/
 
 # Ignore composer.lock.json file
 composer.lock.json
